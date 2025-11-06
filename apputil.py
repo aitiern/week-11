@@ -1,5 +1,3 @@
-# Re-run with a robust diamonds loader (offline fallback) and regenerate outputs.
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
